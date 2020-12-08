@@ -18,7 +18,7 @@
 
  To make a numbered list:
  
-  - Type in: space,1.,space (this will be a Roman numeral list
+  - Type in: space,1.,space (this will be a Roman numeral list)
 
  For fonts:
   - Type: double asterisk "the word" double asterisk Looks like -> **Bold**
