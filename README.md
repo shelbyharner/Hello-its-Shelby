@@ -9,15 +9,16 @@
  You can continue on with smaller and smaller headers which correspond to the number of hashtags that begin the line. 
 
 
+
  In order to make a bulleted list: 
  
- Type in: space,dash,space followed by the bulleted text
+  - Type in: space,dash,space followed by the bulleted text
  
- To indent in again, type in: space space,dash,space followed by the next bulleted text
+    - To indent in again, type in: space space,dash,space followed by the next bulleted text
 
  To make a numbered list:
  
- Type in: space,1.,space (this will be a Roman numeral list
+  - Type in: space,1.,space (this will be a Roman numeral list
 
  For fonts:
   - Type: double asterisk "the word" double asterisk Looks like -> **Bold**
@@ -28,6 +29,8 @@
   How to insert a picture: ![Name of the photo](uploaded file name to the photo)
   
   Many more tricks to learn here: [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+  
+  And even **MORE** here: [Basic Writing for GitHub](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 
 ![Me](ShelbyClass.JPG)
