@@ -1,12 +1,14 @@
 ## Notes/References/Links
 
 
- -# Header 1
- -## Header 2
- -### Header 3
+ To make a 1st header type: # Header 1
+ To make a 2nd header type: ## Header 2
+ To make a 3rd header type: ### Header 3
+ You can continue on with smaller and smaller headers which correspond to the number of hashtags that begin the line. 
 
- - - Bulleted
- - - List
+ In order to make a bulleted list: 
+  Type in: space,dash,space followed by the bulleted text
+ To indent in again, type in: space space,dash,space followed by the next bulleted text
 
  - 1. Numbered
  - 2. List
