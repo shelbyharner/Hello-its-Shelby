@@ -22,6 +22,12 @@
  For fonts:
   - Type: double asterisk "the word" double asterisk Looks like -> **Bold**
   - Type: underscore "the word" underscore Looks like -> _Italic_ 
+  
+  How to link a page: [Hyperlinked Text](the link to the page)
+  
+  How to insert a picture: ![Name of the photo](uploaded file name to the photo)
+  
+  Many more tricks to learn here: [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 
 ![Me](ShelbyClass.JPG)
