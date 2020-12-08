@@ -1,19 +1,27 @@
 ## Notes/References/Links
 
-
  To make a 1st header type: # Header 1
+ 
  To make a 2nd header type: ## Header 2
+ 
  To make a 3rd header type: ### Header 3
+ 
  You can continue on with smaller and smaller headers which correspond to the number of hashtags that begin the line. 
 
+
  In order to make a bulleted list: 
-  Type in: space,dash,space followed by the bulleted text
+ 
+ Type in: space,dash,space followed by the bulleted text
+ 
  To indent in again, type in: space space,dash,space followed by the next bulleted text
 
- - 1. Numbered
- - 2. List
+ To make a numbered list:
+ 
+ Type in: space,1.,space (this will be a Roman numeral list
 
- - **Bold** and _Italic_ and `Code` text
+ For fonts:
+  - Type: double asterisk "the word" double asterisk Looks like -> **Bold**
+  - Type: underscore "the word" underscore Looks like -> _Italic_ 
 
 
 ![Me](ShelbyClass.JPG)
