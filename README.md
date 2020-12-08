@@ -19,11 +19,11 @@
 Hello! My name is Shelby. I am a Washington native currently living in Seattle proper. I grew up about 30 minutes north of the city in Mukilteo and I attended college in Ellensburg at Central Washington University. I am currently a little over 5.5 years in at Amazon as an Executive assistant and worked in the same role at Microsoft on various teams for another about 5.5 years. Some fun facts about me are that I grew up in dance classes, I love cats and have an 11 year old Siamese, am recently into buying and caring for house plants and finally, have brushed up on a few of my many crafting skills (cross stitch, knitting, sewing) during quarantine.
 
 ![Piper](Piper.jpg)
-![Mini Monstera](Mini Monstera.jpg)
+
 ![Mask](Mask.JPG)
-![Knitted Hat](Knitting.jpg)
-![Floral Cross Stitch](Floral Cross StitchJPG.JPG)
-![Bee Cross Stitch](Bee Cross Stitch.JPG)
+
+![KnittedHat](Knitting.jpg)
+
 
 ### My very first webpage :)
 
